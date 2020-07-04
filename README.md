@@ -2,3 +2,4 @@
 Course Link : https://www.udemy.com/course/the-business-intelligence-analyst-course-2018
 Folder Al Bundy contains using statistical analysis to solve business problem.
 SQL code conatins code for querying with the database.
+.pynb files contain the basic python code.
